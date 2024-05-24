@@ -1,0 +1,305 @@
+[{
+"home": [
+  {
+    "name": "Patagonia Amber Lager Cerveza Lata 410 ml",
+      "img": "cervezas/patagonia-amber-lager.jpeg",
+      "cantMax": 10,
+      "price": 910,
+      "stock": true,
+      "type" : "cerveza"
+  },
+  {
+    "name": "Patagonia Bohemia Lata 473 ml",
+    "img": "cervezas/patagonia_bohemia.png",
+    "cantMax": 10,
+    "price": 970,
+    "stock": true,
+    "type" : "cerveza"
+  },
+  {
+    "name": "Vodka Sky Sabor a Durazno de 1 litro.",
+    "img": "vodkas/03.jpg",
+    "cantMax": 10,
+    "price": 2700.00,
+    "stock": true,
+    "type" : "vodkas"
+  },
+  {
+    "name": "Jugo Cepita Sabor a Naranja de 2 lts",
+    "img": "jugos/01.jpg",
+    "cantMax": 10,
+    "price": 850,
+    "stock": true,
+    "type" : "jugos"
+  },
+  {
+    "name": "Gaseosa Sprite Lima Limon 2 lts",
+    "img": "gaseosas/03.jpg",
+    "cantMax": 10,
+    "price": 900,
+    "stock": true,
+    "type" : "gaseosas"
+  },
+  {
+    "name": "Vino Toro Tinto En Caja de 1 lts",
+    "img": null,
+    "price": 900,
+    "stock": true,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Toro Viejo Tinto Botella 1 lts",
+    "img": "vinos/02.jpg",
+    "cantMax": 10,
+    "price": 1200,
+    "stock": false,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Viña De Balbo Blanco Botella 1 lts",
+    "img": "vinos/06.jpg",
+    "cantMax": 10,
+    "price": 950,
+    "stock": true,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vodka Smirnoff Sandia 1 Lt",
+    "img": "vodkas/06.jpg",
+    "cantMax": 10,
+    "price": 2800.00,
+    "stock": false,
+    "type" : "vodkas"
+  }
+],
+"cervezas" :
+[
+  
+    {
+      "name": "Patagonia Amber Lager Cerveza Lata 410 ml",
+      "img": "cervezas/patagonia-amber-lager.jpeg",
+      "cantMax": 10,
+      "price": 910,
+      "stock": true,
+      "type" : "cerveza"
+    },
+    {
+      "name": "Grolsch Cerveza Lata 473 ml",
+      "img": "cervezas/grolsch-cerveza.jpeg",
+      "cantMax": 10,
+      "price": 774,
+      "stock": true,
+      "type" : "cerveza"
+    },
+    {
+      "name": "Schofferhofer Cerveza Lata 500 ml",
+      "img": "cervezas/schofferhofer-cerveza.jpeg",
+      "cantMax": 10,
+      "price": 1344.00,
+      "stock": false,
+      "type" : "cerveza"
+    },
+    {
+        "name": "Imperial Cream Stout Cerveza Lata 473 ml",
+        "img": "cervezas/imperial-cream.jpeg",
+        "cantMax": 10,
+        "price": 697,
+        "stock": false,
+        "type" : "cerveza"
+    },
+    {
+      "name": "Cerveza Andes Roja Lata 473 ml",
+      "img": "cervezas/andes-origen-roja.jpeg",
+      "cantMax": 10,
+      "price": 980,
+      "stock": true,
+      "type" : "cerveza"
+    },
+    {
+      "name": "Cerveza Quilmes Lata 473 ml",
+      "img": "cervezas/quilmes.png",
+      "cantMax": 10,
+      "price": 774,
+      "stock": true,
+      "type" : "cerveza"
+    },
+    {
+      "name": "Cerveza Estela Negra Lata 473 ml",
+      "img": "cervezas/estela_negra.png",
+      "cantMax": 10,
+      "price": 800,
+      "stock": false,
+      "type" : "cerveza"
+    },
+    {
+        "name": "Patagonia Bohemia Lata 473 ml",
+        "img": "cervezas/patagonia_bohemia.png",
+        "cantMax": 10,
+        "price": 970,
+        "stock": true,
+        "type" : "cerveza"
+    }
+  ],
+  "vodkas" :[
+    {
+    "name": "Vodka Sernova 1 Lt",
+    "img": "vodkas/01.jpg",
+    "cantMax": 10,
+    "price": 2300.00,
+    "stock": true,
+    "type" : "vodkas"
+    },
+    {
+      "name": "Vodka Sky 1 Lt",
+      "img": "vodkas/02.jpg",
+      "cantMax": 10,
+      "price": 2500.00,
+      "stock": false,
+      "type" : "vodkas"
+    },
+    {
+      "name": "Vodka Sky Durazno 1 litro.",
+      "img": "vodkas/03.jpg",
+      "cantMax": 10,
+      "price": 2700.00,
+      "stock": true,
+      "type" : "vodkas"
+    },
+    {
+      "name": "Vodka Smirnoff 1 Lt",
+      "img": "vodkas/04.jpg",
+      "cantMax": 10,
+      "price": 2500.00,
+      "stock": true,
+      "type" : "vodkas"
+    },
+    {
+      "name": "Vodka Smirnoff Manzana Verde 1 Lt",
+      "img": "vodkas/05.jpg",
+      "cantMax": 10,
+      "price": 2700.00,
+      "stock": true,
+      "type" : "vodkas"
+    },
+    {
+      "name": "Vodka Smirnoff Sandia 1 Lt",
+      "img": "vodkas/06.jpg",
+      "cantMax": 10,
+      "price": 2800.00,
+      "stock": false,
+      "type" : "vodkas"
+    }
+  ],
+    "gaseosas" :[
+      {
+      "name": "Gaseosa Coca-Cola 2 litros.",
+      "img": "gaseosas/01.jpg",
+      "cantMax": 10,
+      "price": 900,
+      "stock": true,
+      "type" : "gaseosas"
+      },
+      {
+        "name": "Gaseosa Coca-Cola 2/15 litros.",
+        "img": "gaseosas/02.jpg",
+        "cantMax": 10,
+        "price": 1300,
+        "stock": true,
+        "type" : "gaseosas"
+      },
+      {
+        "name": "Gaseosa Sprite Lima Limon 2 litros.",
+        "img": "gaseosas/03.jpg",
+        "cantMax": 10,
+        "price": 900,
+        "stock": true,
+        "type" : "gaseosas"
+      },
+      {
+        "name": "Gaseosa Sprite 2/15 litros.",
+        "img": "gaseosas/04.jpg",
+        "cantMax": 10,
+        "price": 1300,
+        "stock": true,
+        "type" : "gaseosas"
+      }
+    ],
+"jugos" :[
+    {
+    "name": "Jugo Cepita Naranja 2 lts",
+    "img": "jugos/01.jpg",
+    "cantMax": 10,
+    "price": 850,
+    "stock": true,
+    "type" : "jugos"
+  },
+  {
+    "name": "Jugo Cepita Durazno 2 lts",
+    "img": "jugos/02.jpg",
+    "cantMax": 10,
+    "price": 1200,
+    "stock": false,
+    "type" : "jugos"
+  },
+  {
+    "name": "Jugo Baggio Multifruta 1 lts",
+    "img": "jugos/03.jpg",
+    "cantMax": 10,
+    "price": 800,
+    "stock": true,
+    "type" : "jugos"
+  }],
+  
+  "vinos" :[
+    {
+    "name": "Vino Toro Tinto Caja 1 lts",
+    "img": "vinos/01.jpg",
+    "cantMax": 10,
+    "price": 900,
+    "stock": true,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Toro Viejo Tinto Botella 1 lts",
+    "img": "vinos/02.jpg",
+    "cantMax": 10,
+    "price": 1200,
+    "stock": false,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Toro Blanco Caja 1 lts",
+    "img": "vinos/03.jpg",
+    "cantMax": 10,
+    "price": 800,
+    "stock": true,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Puesto Marques Tinto Botella 1 lts",
+    "img": "vinos/04.jpg",
+    "cantMax": 10,
+    "price": 950,
+    "stock": true,
+    "type" : "vinos"
+  },
+  {
+    "name": "Vino Viña De Balbo Tinto Botella 1 lts",
+    "img": "vinos/05.jpg",
+    "cantMax": 10,
+    "price": 950,
+    "stock": true,
+    "type" : "vinos"
+  }
+  ,
+  {
+    "name": "Vino Viña De Balbo Blanco Botella 1 lts",
+    "img": "vinos/06.jpg",
+    "cantMax": 10,
+    "price": 950,
+    "stock": true,
+    "type" : "vinos"
+  }
+]
+
+}]
