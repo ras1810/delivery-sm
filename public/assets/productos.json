@@ -16,30 +16,7 @@
     "stock": true,
     "type" : "cerveza"
   },
-  {
-    "name": "Vodka Sky Sabor a Durazno de 1 litro.",
-    "img": "vodkas/03.jpg",
-    "cantMax": 10,
-    "price": 2700.00,
-    "stock": true,
-    "type" : "vodkas"
-  },
-  {
-    "name": "Jugo Cepita Sabor a Naranja de 2 lts",
-    "img": "jugos/01.jpg",
-    "cantMax": 10,
-    "price": 850,
-    "stock": true,
-    "type" : "jugos"
-  },
-  {
-    "name": "Gaseosa Sprite Lima Limon 2 lts",
-    "img": "gaseosas/03.jpg",
-    "cantMax": 10,
-    "price": 900,
-    "stock": true,
-    "type" : "gaseosas"
-  },
+  
   {
     "name": "Vino Toro Tinto En Caja de 1 lts",
     "img": null,
@@ -47,14 +24,7 @@
     "stock": true,
     "type" : "vinos"
   },
-  {
-    "name": "Vino Toro Viejo Tinto Botella 1 lts",
-    "img": "vinos/02.jpg",
-    "cantMax": 10,
-    "price": 1200,
-    "stock": false,
-    "type" : "vinos"
-  },
+
   {
     "name": "Vino Viña De Balbo Blanco Botella 1 lts",
     "img": "vinos/06.jpg",
@@ -62,14 +32,6 @@
     "price": 950,
     "stock": true,
     "type" : "vinos"
-  },
-  {
-    "name": "Vodka Smirnoff Sandia 1 Lt",
-    "img": "vodkas/06.jpg",
-    "cantMax": 10,
-    "price": 2800.00,
-    "stock": false,
-    "type" : "vodkas"
   }
 ],
 "cervezas" :
